@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword",
+    "layer1": "omnimine:item/sun_sword_overlay"
+  }
+}

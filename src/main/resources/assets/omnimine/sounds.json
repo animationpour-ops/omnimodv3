@@ -1,0 +1,97 @@
+{
+  "rift_open": {
+    "sounds": [
+      "omnimine:rift_open"
+    ]
+  },
+  "boom": {
+    "sounds": [
+      "omnimine:boom"
+    ]
+  },
+  "slash": {
+    "sounds": [
+      "omnimine:slash"
+    ]
+  },
+  "void_hole": {
+    "sounds": [
+      "omnimine:void_hole"
+    ]
+  },
+  "forge_charge": {
+    "sounds": [
+      "omnimine:forge_charge"
+    ]
+  },
+  "forge_done": {
+    "sounds": [
+      "omnimine:forge_done"
+    ]
+  },
+  "whirl": {
+    "sounds": [
+      "omnimine:whirl"
+    ]
+  },
+  "flame": {
+    "sounds": [
+      "omnimine:flame"
+    ]
+  },
+  "pulse": {
+    "sounds": [
+      "omnimine:pulse"
+    ]
+  },
+  "blink": {
+    "sounds": [
+      "omnimine:blink"
+    ]
+  },
+  "zap": {
+    "sounds": [
+      "omnimine:zap"
+    ]
+  },
+  "thunder": {
+    "sounds": [
+      "omnimine:thunder"
+    ]
+  },
+  "absorb": {
+    "sounds": [
+      "omnimine:absorb"
+    ]
+  },
+  "solar": {
+    "sounds": [
+      "omnimine:solar"
+    ]
+  },
+  "lunar": {
+    "sounds": [
+      "omnimine:lunar"
+    ]
+  },
+  "laser": {
+    "sounds": [
+      "omnimine:laser"
+    ]
+  },
+  "quake": {
+    "sounds": [
+      "omnimine:quake"
+    ]
+  },
+  "crack": {
+    "sounds": [
+      "omnimine:crack"
+    ]
+  },
+  "reward": {
+    "sounds": [
+      "omnimine:reward"
+    ]
+  }
+}

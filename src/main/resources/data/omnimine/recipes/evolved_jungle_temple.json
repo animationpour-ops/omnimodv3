@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "S": {
+      "item": "omnimine:structure_jungle_temple"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_jungle_temple",
+    "count": 1
+  }
+}

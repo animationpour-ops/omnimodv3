@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:stone_bricks"
+    },
+    "S": {
+      "item": "omnimine:structure_stronghold"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_stronghold",
+    "count": 1
+  }
+}

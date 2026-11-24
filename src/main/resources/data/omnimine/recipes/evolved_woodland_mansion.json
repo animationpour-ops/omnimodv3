@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "S": {
+      "item": "omnimine:structure_woodland_mansion"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_woodland_mansion",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:dark_oak_log"
+    },
+    "S": {
+      "item": "omnimine:structure_pillager_outpost"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_pillager_outpost",
+    "count": 1
+  }
+}

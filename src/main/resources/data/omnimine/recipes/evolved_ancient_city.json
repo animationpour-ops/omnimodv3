@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "S": {
+      "item": "omnimine:structure_ancient_city"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_ancient_city",
+    "count": 1
+  }
+}

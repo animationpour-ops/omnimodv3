@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:hay_block"
+    },
+    "S": {
+      "item": "omnimine:structure_village"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_village",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+package com.omnimine.net;
+
+import com.omnimine.Omnimine;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraftforge.network.NetworkRegistry;
+import net.minecraftforge.network.simple.SimpleChannel;
+
+public final class ModNetwork {
+    private static final String PROTOCOL = "1";
+
+    public static final SimpleChannel CHANNEL = NetworkRegistry.newSimpleChannel(
+            new ResourceLocation(Omnimine.MODID, "main"),
+            () -> PROTOCOL, PROTOCOL::equals, PROTOCOL::equals);
+
+    public static void register() {
+        int id = 0;
+        CHANNEL.registerMessage(id++, VfxPacket.class, VfxPacket::encode, VfxPacket::decode, VfxPacket::handle);
+        CHANNEL.registerMessage(id++, MineHoldPacket.class, MineHoldPacket::encode, MineHoldPacket::decode,
+                MineHoldPacket::handle);
+        CHANNEL.registerMessage(id++, JumpPacket.class, JumpPacket::encode, JumpPacket::decode, JumpPacket::handle);
+    }
+
+    private ModNetwork() {}
+}

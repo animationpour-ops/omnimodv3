@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:purpur_block"
+    },
+    "S": {
+      "item": "omnimine:structure_end_city"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_end_city",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:sandstone"
+    },
+    "S": {
+      "item": "omnimine:structure_desert_pyramid"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_desert_pyramid",
+    "count": 1
+  }
+}

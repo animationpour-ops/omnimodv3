@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blackstone"
+    },
+    "S": {
+      "item": "omnimine:structure_bastion"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_bastion",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "S": {
+      "item": "omnimine:structure_ocean_monument"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_ocean_monument",
+    "count": 1
+  }
+}

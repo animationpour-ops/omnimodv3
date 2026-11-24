@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:nether_bricks"
+    },
+    "S": {
+      "item": "omnimine:structure_nether_fortress"
+    }
+  },
+  "result": {
+    "item": "omnimine:evolved_nether_fortress",
+    "count": 1
+  }
+}
